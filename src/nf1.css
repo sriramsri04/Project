@@ -1,0 +1,129 @@
+body{
+    background-color: black;
+}
+.button{
+   background-color: white;
+   font-weight: bold;
+   font-size: 40px;
+   position: absolute;
+   border-radius: 50px;
+   margin-left: 550px;
+   text-align: center;
+}
+.button1{
+   background-color: white;
+   font-weight: bold;
+   font-size: 80px;
+   position: absolute;
+   margin-left: 150px;
+   text-align: center;
+   width: 90px;
+   height: 37px;
+   margin-top: 2390px;
+   border-radius: 10PX;
+}
+.button2{
+   background-color: white;
+   font-weight: bold;
+   font-size: 80px;
+   position: absolute;
+   margin-left: 1250px;
+   text-align: center;
+   width: 90px;
+   height: 37px;
+   margin-top: 2390px;
+   border-radius: 10PX;
+}
+.text{
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.text9{
+    text-align: center;
+    font-size: 20px;
+  
+    margin-bottom: 1px;
+}
+.text12{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 1px;
+}
+.img1{
+    margin-top: 150px;
+    margin-left: 150px;
+    width: 300px;
+    height: 400px;
+    position: absolute;
+}
+.img2{
+    margin-top: 590px;
+    margin-left: 150px;
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    
+}
+.img3{
+    margin-top: 1030px;
+    margin-left: 150px;
+    width: 300px;
+    height: 400px;
+    position: absolute;
+}
+.img4{
+    margin-top: 1480px;
+    margin-left: 150px;
+    width: 300px;
+    height: 400px;
+    position: absolute;
+}
+.img5{
+    margin-top: 1920px;
+    margin-left: 150px;
+    width: 300px;
+    height: s;
+    position: absolute;
+}
+.text1{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 700px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+.text2{
+    position: absolute;
+    margin-top: 620px;
+    margin-left: 700px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+.text3{
+    position: absolute;
+    margin-top: 1100px;
+    margin-left: 700px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+.text4{
+    position: absolute;
+    margin-top: 1500px;
+    margin-left: 700px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+.text5{
+    position: absolute;
+    margin-top: 1950px;
+    margin-left: 700px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}

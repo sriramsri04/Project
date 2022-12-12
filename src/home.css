@@ -1,0 +1,147 @@
+*{ 
+    background-color: black; 
+} 
+.photo1{ 
+    margin-top: 30px; 
+     width: 1480px; 
+     height: 70px; 
+     position: absolute; 
+     background-color: light black; 
+} 
+.text1{ 
+    position: absolute; 
+    margin-top: 50px; 
+    font-size: 30px; 
+    color: white; 
+    font-weight: bold; 
+    margin-left: 20px; 
+    background-color: gray; 
+} 
+.photo2{ 
+    position: absolute; 
+    width: 60px; 
+    margin-left: 210px; 
+    margin-top: 40px; 
+} 
+.photo3{ 
+    position: absolute; 
+    width: 500px; 
+    height: 500px; 
+    margin-top: 200px; 
+    margin-left: 150px; 
+} 
+.photo4{ 
+    position: absolute; 
+    width: 500px; 
+    height: 500px; 
+    margin-top: 200px; 
+    margin-left: 830px; 
+} 
+.photo5{ 
+    position: absolute; 
+    margin-top: 800px; 
+    width: 900px; 
+    height: 800px; 
+    margin-left: 300px; 
+} 
+ div{ 
+    width: 300px; 
+    height: 90px; 
+    background-color:grey; 
+    margin-left: 570px; 
+    position: absolute; 
+    margin-top: 1700px; 
+    border-radius: 30px; 
+    margin-bottom: 20px; 
+ } 
+ .text2{ 
+    color: black; 
+    font-size: 30px; 
+    font-weight: bold; 
+    background-color: gray; 
+ } 
+ .photo6{ 
+    position: absolute; 
+    margin-top: 1900px; 
+    width: 1300px; 
+    height: 600px; 
+    margin-left: 100px; 
+ } 
+ .photo7{ 
+    position: absolute; 
+    margin-top: 2600px; 
+    margin-left: 400px; 
+ } 
+ .photo8{ 
+    position: absolute; 
+    color: white; 
+    width: 60px; 
+    border: grey; 
+    margin-left: 1300px; 
+    margin-top: 36px; 
+ } 
+ .photo9{ 
+    position: absolute; 
+    margin-left: 740px; 
+    width: 124px; 
+    margin-top: 80px; 
+ } 
+ .photo10{ 
+    position: absolute; 
+    margin-left: 920px; 
+    width: 230px; 
+    margin-top: 80px; 
+ } 
+ .photo11{ 
+    position: absolute; 
+    margin-left: 1200px; 
+    width: 90px; 
+    margin-top: 80px; 
+ } 
+ .text3{ 
+    position: absolute; 
+    color: white; 
+    font-weight: bold; 
+    margin-left: 460px; 
+    margin-top: 2610px; 
+    font-size: 20px; 
+ } 
+ .button{ 
+    position: absolute; 
+    background-color: grey; 
+    border: grey; 
+    margin-left: 740px; 
+    margin-top: 35px; 
+ } 
+ .letter{ 
+    color: white; 
+    background-color: grey; 
+    font-weight: bold; 
+    font-size: 20px; 
+ } 
+ .button1{ 
+    position: absolute; 
+    background-color: grey; 
+    border: grey; 
+    margin-left: 920px; 
+    margin-top: 35px; 
+ } 
+ .letter1{ 
+    color: white; 
+    background-color: grey; 
+    font-weight: bold; 
+    font-size: 20px; 
+ } 
+ .button2{ 
+    position: absolute; 
+    background-color: grey; 
+    border: grey; 
+    margin-left: 1200px; 
+    margin-top: 35px; 
+ } 
+ .letter2{ 
+    color: white; 
+    background-color: grey; 
+    font-weight: bold; 
+    font-size: 20px; 
+ } 
